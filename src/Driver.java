@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Driver {
 	public static Location myLocation;
+	//Ta Le Kien
 	// character’s current Location
 	public static ContainerItem myInventory;
 	//a backpack that your character carries with him/her as he/she moves
